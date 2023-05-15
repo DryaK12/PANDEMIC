@@ -1,0 +1,664 @@
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD San Francisco ESTÁ EN ALS COORDENADAS (235,315) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Chicago, ESTÁ A UNA DISTANCIA DE 73.82 KM ||
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 970.7 KM ||
+ || Tokio, ESTÁ A UNA DISTANCIA DE 1045.3 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Chicago ESTÁ EN ALS COORDENADAS (300,280) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 73.82 KM ||
+ || Montreal, ESTÁ A UNA DISTANCIA DE 50.0 KM ||
+ || Atlanta, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 79.06 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Atlanta ESTÁ EN ALS COORDENADAS (320,320) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Chicago, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Miami, ESTÁ A UNA DISTANCIA DE 72.11 KM ||
+ || Washington, ESTÁ A UNA DISTANCIA DE 41.23 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Montreal ESTÁ EN ALS COORDENADAS (350,280) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Chicago, ESTÁ A UNA DISTANCIA DE 50.0 KM ||
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 31.62 KM ||
+ || Washington, ESTÁ A UNA DISTANCIA DE 50.99 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Nueva York ESTÁ EN ALS COORDENADAS (380,290) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Montreal, ESTÁ A UNA DISTANCIA DE 31.62 KM ||
+ || Washington, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Londres, ESTÁ A UNA DISTANCIA DE 325.58 KM ||
+ || Madrid, ESTÁ A UNA DISTANCIA DE 307.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Washington ESTÁ EN ALS COORDENADAS (360,330) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Montreal, ESTÁ A UNA DISTANCIA DE 50.99 KM ||
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Atlanta, ESTÁ A UNA DISTANCIA DE 41.23 KM ||
+ || Miami, ESTÁ A UNA DISTANCIA DE 36.06 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Londres ESTÁ EN ALS COORDENADAS (700,230) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 325.58 KM ||
+ || Madrid, ESTÁ A UNA DISTANCIA DE 61.39 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 33.6 KM ||
+ || Essen, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Madrid ESTÁ EN ALS COORDENADAS (687,290) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 307.0 KM ||
+ || Londres, ESTÁ A UNA DISTANCIA DE 61.39 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 326.02 KM ||
+ || Argel, ESTÁ A UNA DISTANCIA DE 58.73 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Paris ESTÁ EN ALS COORDENADAS (727,250) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Madrid, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Londres, ESTÁ A UNA DISTANCIA DE 33.6 KM ||
+ || Essen, ESTÁ A UNA DISTANCIA DE 66.21 KM ||
+ || Argel, ESTÁ A UNA DISTANCIA DE 80.06 KM ||
+ || Milan, ESTÁ A UNA DISTANCIA DE 31.76 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Essen ESTÁ EN ALS COORDENADAS (755,190) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Londres, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 66.21 KM ||
+ || San Petersburgo, ESTÁ A UNA DISTANCIA DE 63.25 KM ||
+ || Milan, ESTÁ A UNA DISTANCIA DE 45.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Milan ESTÁ EN ALS COORDENADAS (755,235) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Essen, ESTÁ A UNA DISTANCIA DE 45.0 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 31.76 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 95.43 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD San Petersburgo ESTÁ EN ALS COORDENADAS (815,210) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Essen, ESTÁ A UNA DISTANCIA DE 63.25 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 85.33 KM ||
+ || Moscu, ESTÁ A UNA DISTANCIA DE 77.62 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Los Angeles ESTÁ EN ALS COORDENADAS (275,355) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Chicago, ESTÁ A UNA DISTANCIA DE 79.06 KM ||
+ || Sidney, ESTÁ A UNA DISTANCIA DE 1084.49 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Miami ESTÁ EN ALS COORDENADAS (380,360) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Washington, ESTÁ A UNA DISTANCIA DE 36.06 KM ||
+ || Atlanta, ESTÁ A UNA DISTANCIA DE 72.11 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 83.82 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 101.98 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Mexico DF ESTÁ EN ALS COORDENADAS (300,385) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Miami, ESTÁ A UNA DISTANCIA DE 83.82 KM ||
+ || Chicago, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 125.0 KM ||
+ || Lima, ESTÁ A UNA DISTANCIA DE 165.08 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bogota ESTÁ EN ALS COORDENADAS (400,460) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Miami, ESTÁ A UNA DISTANCIA DE 101.98 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 125.0 KM ||
+ || Lima, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 162.79 KM ||
+ || Buenos Aires, ESTÁ A UNA DISTANCIA DE 216.58 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Lima ESTÁ EN ALS COORDENADAS (395,520) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 165.08 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+ || Santiago de Chile, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Santiago de Chile ESTÁ EN ALS COORDENADAS (430,620) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Lima, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Buenos Aires ESTÁ EN ALS COORDENADAS (453,670) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 120.37 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 216.58 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Sao Paulo ESTÁ EN ALS COORDENADAS (520,570) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Bogota, ESTÁ A UNA DISTANCIA DE 162.79 KM ||
+ || Buenos Aires, ESTÁ A UNA DISTANCIA DE 120.37 KM ||
+ || Lagos, ESTÁ A UNA DISTANCIA DE 224.72 KM ||
+ || Madrid, ESTÁ A UNA DISTANCIA DE 326.02 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Lagos ESTÁ EN ALS COORDENADAS (710,450) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 224.72 KM ||
+ || Kinsasa, ESTÁ A UNA DISTANCIA DE 108.17 KM ||
+ || Jartum, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Kinsasa ESTÁ EN ALS COORDENADAS (770,540) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Lagos, ESTÁ A UNA DISTANCIA DE 108.17 KM ||
+ || Jartum, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+ || Johannesburgo, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Jartum ESTÁ EN ALS COORDENADAS (815,450) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 100.12 KM ||
+ || Lagos, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+ || Kinsasa, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+ || Johannesburgo, ESTÁ A UNA DISTANCIA DE 180.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Johannesburgo ESTÁ EN ALS COORDENADAS (815,630) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Kinsasa, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+ || Jartum, ESTÁ A UNA DISTANCIA DE 180.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Argel ESTÁ EN ALS COORDENADAS (730,330) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Madrid, ESTÁ A UNA DISTANCIA DE 58.73 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 80.06 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 106.28 KM ||
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 92.2 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD El Cairo ESTÁ EN ALS COORDENADAS (820,350) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Argel, ESTÁ A UNA DISTANCIA DE 92.2 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 56.89 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 67.08 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Riad ESTÁ EN ALS COORDENADAS (895,385) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 82.76 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 66.71 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 90.14 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Estambul ESTÁ EN ALS COORDENADAS (830,294) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Argel, ESTÁ A UNA DISTANCIA DE 106.28 KM ||
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 56.89 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 56.36 KM ||
+ || Moscu, ESTÁ A UNA DISTANCIA DE 87.73 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bagdad ESTÁ EN ALS COORDENADAS (880,320) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Estambul, ESTÁ A UNA DISTANCIA DE 56.36 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+ || Riad, ESTÁ A UNA DISTANCIA DE 66.71 KM ||
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 67.08 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Moscu ESTÁ EN ALS COORDENADAS (890,230) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Teheran, ESTÁ A UNA DISTANCIA DE 85.44 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 87.73 KM ||
+ || San Petersburgo, ESTÁ A UNA DISTANCIA DE 77.62 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Teheran ESTÁ EN ALS COORDENADAS (920,310) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Moscu, ESTÁ A UNA DISTANCIA DE 85.44 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 41.23 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 75.0 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 106.89 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Karachi ESTÁ EN ALS COORDENADAS (980,355) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Teheran, ESTÁ A UNA DISTANCIA DE 75.0 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 51.48 KM ||
+ || Riad, ESTÁ A UNA DISTANCIA DE 90.14 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bombay ESTÁ EN ALS COORDENADAS (1005,395) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Karachi, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Nueva Delhi ESTÁ EN ALS COORDENADAS (1025,330) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Teheran, ESTÁ A UNA DISTANCIA DE 106.89 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 51.48 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 80.62 KM ||
+ || Calcuta, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Calcuta ESTÁ EN ALS COORDENADAS (1070,370) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 95.0 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 53.15 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 67.27 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Madras ESTÁ EN ALS COORDENADAS (1035,410) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Bombay, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 80.62 KM ||
+ || Calcuta, ESTÁ A UNA DISTANCIA DE 53.15 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 85.15 KM ||
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 162.63 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bombay ESTÁ EN ALS COORDENADAS (1005,395) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Karachi, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Yakarta ESTÁ EN ALS COORDENADAS (1150,525) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Madras, ESTÁ A UNA DISTANCIA DE 162.63 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 114.02 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 96.02 KM ||
+ || Sidney, ESTÁ A UNA DISTANCIA DE 208.09 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bangkok ESTÁ EN ALS COORDENADAS (1120,415) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 114.02 KM ||
+ || Calcuta, ESTÁ A UNA DISTANCIA DE 67.27 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 85.15 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 31.3 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 63.64 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Hong Kong ESTÁ EN ALS COORDENADAS (1165,370) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 63.64 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 61.4 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 40.31 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 61.03 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Shanghai ESTÁ EN ALS COORDENADAS (1195,355) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Pekin, ESTÁ A UNA DISTANCIA DE 58.52 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Seul, ESTÁ A UNA DISTANCIA DE 65.3 KM ||
+ || Tokio, ESTÁ A UNA DISTANCIA DE 107.0 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 22.36 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Pekin ESTÁ EN ALS COORDENADAS (1175,300) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Seul, ESTÁ A UNA DISTANCIA DE 50.09 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 58.52 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Seul ESTÁ EN ALS COORDENADAS (1225,297) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Pekin, ESTÁ A UNA DISTANCIA DE 50.09 KM ||
+ || Tokio, ESTÁ A UNA DISTANCIA DE 55.44 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Tokio ESTÁ EN ALS COORDENADAS (1280,290) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 1045.3 KM ||
+ || Seul, ESTÁ A UNA DISTANCIA DE 55.44 KM ||
+ || Osaka, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 107.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Osaka ESTÁ EN ALS COORDENADAS (1255,320) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Tokio, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 74.33 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Taipei ESTÁ EN ALS COORDENADAS (1205,375) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Osaka, ESTÁ A UNA DISTANCIA DE 74.33 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 22.36 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 40.31 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 45.28 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Ho Chi Minh ESTÁ EN ALS COORDENADAS (1148,429) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 96.02 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 31.3 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 61.4 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 52.77 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Manila ESTÁ EN ALS COORDENADAS (1200,420) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 970.7 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 52.77 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 45.28 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 61.03 KM ||
+ || Sidney, ESTÁ A UNA DISTANCIA DE 255.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Sidney ESTÁ EN ALS COORDENADAS (1320,645) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 1084.49 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 255.0 KM ||
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 208.09 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD San Francisco ESTÁ EN ALS COORDENADAS (235,315) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Chicago, ESTÁ A UNA DISTANCIA DE 73.82 KM ||
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 970.7 KM ||
+ || Tokio, ESTÁ A UNA DISTANCIA DE 1045.3 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Chicago ESTÁ EN ALS COORDENADAS (300,280) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 73.82 KM ||
+ || Montreal, ESTÁ A UNA DISTANCIA DE 50.0 KM ||
+ || Atlanta, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 79.06 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Atlanta ESTÁ EN ALS COORDENADAS (320,320) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Chicago, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Miami, ESTÁ A UNA DISTANCIA DE 72.11 KM ||
+ || Washington, ESTÁ A UNA DISTANCIA DE 41.23 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Montreal ESTÁ EN ALS COORDENADAS (350,280) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Chicago, ESTÁ A UNA DISTANCIA DE 50.0 KM ||
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 31.62 KM ||
+ || Washington, ESTÁ A UNA DISTANCIA DE 50.99 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Nueva York ESTÁ EN ALS COORDENADAS (380,290) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Montreal, ESTÁ A UNA DISTANCIA DE 31.62 KM ||
+ || Washington, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Londres, ESTÁ A UNA DISTANCIA DE 325.58 KM ||
+ || Madrid, ESTÁ A UNA DISTANCIA DE 307.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Washington ESTÁ EN ALS COORDENADAS (360,330) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Montreal, ESTÁ A UNA DISTANCIA DE 50.99 KM ||
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 44.72 KM ||
+ || Atlanta, ESTÁ A UNA DISTANCIA DE 41.23 KM ||
+ || Miami, ESTÁ A UNA DISTANCIA DE 36.06 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Londres ESTÁ EN ALS COORDENADAS (700,230) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 325.58 KM ||
+ || Madrid, ESTÁ A UNA DISTANCIA DE 61.39 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 33.6 KM ||
+ || Essen, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Madrid ESTÁ EN ALS COORDENADAS (687,290) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Nueva York, ESTÁ A UNA DISTANCIA DE 307.0 KM ||
+ || Londres, ESTÁ A UNA DISTANCIA DE 61.39 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 326.02 KM ||
+ || Argel, ESTÁ A UNA DISTANCIA DE 58.73 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Paris ESTÁ EN ALS COORDENADAS (727,250) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Madrid, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Londres, ESTÁ A UNA DISTANCIA DE 33.6 KM ||
+ || Essen, ESTÁ A UNA DISTANCIA DE 66.21 KM ||
+ || Argel, ESTÁ A UNA DISTANCIA DE 80.06 KM ||
+ || Milan, ESTÁ A UNA DISTANCIA DE 31.76 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Essen ESTÁ EN ALS COORDENADAS (755,190) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Londres, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 66.21 KM ||
+ || San Petersburgo, ESTÁ A UNA DISTANCIA DE 63.25 KM ||
+ || Milan, ESTÁ A UNA DISTANCIA DE 45.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Milan ESTÁ EN ALS COORDENADAS (755,235) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Essen, ESTÁ A UNA DISTANCIA DE 45.0 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 31.76 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 95.43 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD San Petersburgo ESTÁ EN ALS COORDENADAS (815,210) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Essen, ESTÁ A UNA DISTANCIA DE 63.25 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 85.33 KM ||
+ || Moscu, ESTÁ A UNA DISTANCIA DE 77.62 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Los Angeles ESTÁ EN ALS COORDENADAS (275,355) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 56.57 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Chicago, ESTÁ A UNA DISTANCIA DE 79.06 KM ||
+ || Sidney, ESTÁ A UNA DISTANCIA DE 1084.49 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Miami ESTÁ EN ALS COORDENADAS (380,360) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Washington, ESTÁ A UNA DISTANCIA DE 36.06 KM ||
+ || Atlanta, ESTÁ A UNA DISTANCIA DE 72.11 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 83.82 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 101.98 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Mexico DF ESTÁ EN ALS COORDENADAS (300,385) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Miami, ESTÁ A UNA DISTANCIA DE 83.82 KM ||
+ || Chicago, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 125.0 KM ||
+ || Lima, ESTÁ A UNA DISTANCIA DE 165.08 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bogota ESTÁ EN ALS COORDENADAS (400,460) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Miami, ESTÁ A UNA DISTANCIA DE 101.98 KM ||
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 125.0 KM ||
+ || Lima, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 162.79 KM ||
+ || Buenos Aires, ESTÁ A UNA DISTANCIA DE 216.58 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Lima ESTÁ EN ALS COORDENADAS (395,520) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Mexico DF, ESTÁ A UNA DISTANCIA DE 165.08 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+ || Santiago de Chile, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Santiago de Chile ESTÁ EN ALS COORDENADAS (430,620) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Lima, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Buenos Aires ESTÁ EN ALS COORDENADAS (453,670) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 120.37 KM ||
+ || Bogota, ESTÁ A UNA DISTANCIA DE 216.58 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Sao Paulo ESTÁ EN ALS COORDENADAS (520,570) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Bogota, ESTÁ A UNA DISTANCIA DE 162.79 KM ||
+ || Buenos Aires, ESTÁ A UNA DISTANCIA DE 120.37 KM ||
+ || Lagos, ESTÁ A UNA DISTANCIA DE 224.72 KM ||
+ || Madrid, ESTÁ A UNA DISTANCIA DE 326.02 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Lagos ESTÁ EN ALS COORDENADAS (710,450) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Sao Paulo, ESTÁ A UNA DISTANCIA DE 224.72 KM ||
+ || Kinsasa, ESTÁ A UNA DISTANCIA DE 108.17 KM ||
+ || Jartum, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Kinsasa ESTÁ EN ALS COORDENADAS (770,540) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Lagos, ESTÁ A UNA DISTANCIA DE 108.17 KM ||
+ || Jartum, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+ || Johannesburgo, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Jartum ESTÁ EN ALS COORDENADAS (815,450) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 100.12 KM ||
+ || Lagos, ESTÁ A UNA DISTANCIA DE 105.0 KM ||
+ || Kinsasa, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+ || Johannesburgo, ESTÁ A UNA DISTANCIA DE 180.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Johannesburgo ESTÁ EN ALS COORDENADAS (815,630) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Kinsasa, ESTÁ A UNA DISTANCIA DE 100.62 KM ||
+ || Jartum, ESTÁ A UNA DISTANCIA DE 180.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Argel ESTÁ EN ALS COORDENADAS (730,330) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Madrid, ESTÁ A UNA DISTANCIA DE 58.73 KM ||
+ || Paris, ESTÁ A UNA DISTANCIA DE 80.06 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 106.28 KM ||
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 92.2 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD El Cairo ESTÁ EN ALS COORDENADAS (820,350) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Argel, ESTÁ A UNA DISTANCIA DE 92.2 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 56.89 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 67.08 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Riad ESTÁ EN ALS COORDENADAS (895,385) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 82.76 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 66.71 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 90.14 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Estambul ESTÁ EN ALS COORDENADAS (830,294) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Argel, ESTÁ A UNA DISTANCIA DE 106.28 KM ||
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 56.89 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 56.36 KM ||
+ || Moscu, ESTÁ A UNA DISTANCIA DE 87.73 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bagdad ESTÁ EN ALS COORDENADAS (880,320) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Estambul, ESTÁ A UNA DISTANCIA DE 56.36 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+ || Riad, ESTÁ A UNA DISTANCIA DE 66.71 KM ||
+ || El Cairo, ESTÁ A UNA DISTANCIA DE 67.08 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Moscu ESTÁ EN ALS COORDENADAS (890,230) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Teheran, ESTÁ A UNA DISTANCIA DE 85.44 KM ||
+ || Estambul, ESTÁ A UNA DISTANCIA DE 87.73 KM ||
+ || San Petersburgo, ESTÁ A UNA DISTANCIA DE 77.62 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Teheran ESTÁ EN ALS COORDENADAS (920,310) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Moscu, ESTÁ A UNA DISTANCIA DE 85.44 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 41.23 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 75.0 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 106.89 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Karachi ESTÁ EN ALS COORDENADAS (980,355) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Teheran, ESTÁ A UNA DISTANCIA DE 75.0 KM ||
+ || Bagdad, ESTÁ A UNA DISTANCIA DE 105.95 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 51.48 KM ||
+ || Riad, ESTÁ A UNA DISTANCIA DE 90.14 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bombay ESTÁ EN ALS COORDENADAS (1005,395) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Karachi, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Nueva Delhi ESTÁ EN ALS COORDENADAS (1025,330) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Teheran, ESTÁ A UNA DISTANCIA DE 106.89 KM ||
+ || Karachi, ESTÁ A UNA DISTANCIA DE 51.48 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 80.62 KM ||
+ || Calcuta, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Calcuta ESTÁ EN ALS COORDENADAS (1070,370) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 60.21 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 95.0 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 53.15 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 67.27 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Madras ESTÁ EN ALS COORDENADAS (1035,410) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Bombay, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Bombay, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 80.62 KM ||
+ || Calcuta, ESTÁ A UNA DISTANCIA DE 53.15 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 85.15 KM ||
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 162.63 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bombay ESTÁ EN ALS COORDENADAS (1005,395) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Karachi, ESTÁ A UNA DISTANCIA DE 47.17 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Nueva Delhi, ESTÁ A UNA DISTANCIA DE 68.01 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Yakarta ESTÁ EN ALS COORDENADAS (1150,525) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Madras, ESTÁ A UNA DISTANCIA DE 162.63 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 114.02 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 96.02 KM ||
+ || Sidney, ESTÁ A UNA DISTANCIA DE 208.09 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Bangkok ESTÁ EN ALS COORDENADAS (1120,415) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 114.02 KM ||
+ || Calcuta, ESTÁ A UNA DISTANCIA DE 67.27 KM ||
+ || Madras, ESTÁ A UNA DISTANCIA DE 85.15 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 31.3 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 63.64 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Hong Kong ESTÁ EN ALS COORDENADAS (1165,370) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 63.64 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 61.4 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 40.31 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 61.03 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Shanghai ESTÁ EN ALS COORDENADAS (1195,355) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Pekin, ESTÁ A UNA DISTANCIA DE 58.52 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 33.54 KM ||
+ || Seul, ESTÁ A UNA DISTANCIA DE 65.3 KM ||
+ || Tokio, ESTÁ A UNA DISTANCIA DE 107.0 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 22.36 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Pekin ESTÁ EN ALS COORDENADAS (1175,300) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Seul, ESTÁ A UNA DISTANCIA DE 50.09 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 58.52 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Seul ESTÁ EN ALS COORDENADAS (1225,297) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Pekin, ESTÁ A UNA DISTANCIA DE 50.09 KM ||
+ || Tokio, ESTÁ A UNA DISTANCIA DE 55.44 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Tokio ESTÁ EN ALS COORDENADAS (1280,290) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 1045.3 KM ||
+ || Seul, ESTÁ A UNA DISTANCIA DE 55.44 KM ||
+ || Osaka, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 107.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Osaka ESTÁ EN ALS COORDENADAS (1255,320) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Tokio, ESTÁ A UNA DISTANCIA DE 39.05 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 74.33 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Taipei ESTÁ EN ALS COORDENADAS (1205,375) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Osaka, ESTÁ A UNA DISTANCIA DE 74.33 KM ||
+ || Shanghai, ESTÁ A UNA DISTANCIA DE 22.36 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 40.31 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 45.28 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Ho Chi Minh ESTÁ EN ALS COORDENADAS (1148,429) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 96.02 KM ||
+ || Bangkok, ESTÁ A UNA DISTANCIA DE 31.3 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 61.4 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 52.77 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Manila ESTÁ EN ALS COORDENADAS (1200,420) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || San Francisco, ESTÁ A UNA DISTANCIA DE 970.7 KM ||
+ || Ho Chi Minh, ESTÁ A UNA DISTANCIA DE 52.77 KM ||
+ || Taipei, ESTÁ A UNA DISTANCIA DE 45.28 KM ||
+ || Hong Kong, ESTÁ A UNA DISTANCIA DE 61.03 KM ||
+ || Sidney, ESTÁ A UNA DISTANCIA DE 255.0 KM ||
+----------------------------------------------------------------------------------------------------------------------------
+LA CIUDAD Sidney ESTÁ EN ALS COORDENADAS (1320,645) SUS CIUDADES COLINDANTES SON
+----------------------------------------------------------------------------------------------------------------------------
+ || Los Angeles, ESTÁ A UNA DISTANCIA DE 1084.49 KM ||
+ || Manila, ESTÁ A UNA DISTANCIA DE 255.0 KM ||
+ || Yakarta, ESTÁ A UNA DISTANCIA DE 208.09 KM ||

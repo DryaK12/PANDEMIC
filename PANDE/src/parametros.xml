@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parametros>
+                    
+    
+    
+    
+    <numCiudadesInfectadasInicio>5</numCiudadesInfectadasInicio>
+                    
+    
+    
+    
+    <numCuidadesInfectadasRonda>3</numCuidadesInfectadasRonda>
+                    
+    
+    
+    
+    <numEnfermedadesActivasDerrota>50</numEnfermedadesActivasDerrota>
+                    
+    
+    
+    
+    <numBrotesDerrota>10</numBrotesDerrota>
+
+
+    <porcentajeDesarrolloVacuna>25</porcentajeDesarrolloVacuna> <!-- nuevo elemento para establecer el porcentaje en el que se pueda desarrollar la vacuna !-->
+                
+
+
+
+</parametros>
