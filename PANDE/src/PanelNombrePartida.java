@@ -212,7 +212,7 @@ public class PanelNombrePartida extends JFrame implements ActionListener  {
 		int idpartida=0;
 		
 	  	// Si estáis desde casa, la url será oracle.ilerna.com y no 192.168.3.26
-    	String DB_URL =  "jdbc:oracle:thin:@192.168.3.26:1521:xe";
+    	String DB_URL =  "jdbc:oracle:thin:@oracle.ilerna.com:1521:xe";
         String USER =  "DAW_PNDC22_23_DAMO";
         String PASS = "DM123";
         Connection con = null;

@@ -1,0 +1,60 @@
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 12, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 30, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 29, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 3, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 47, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 27, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 12, 0)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 11, 0)
+SELECT  brotes_actuales from partida where idpartida = 70 and id_jugador=2
+UPDATE partida SET vacuna1 = 25 WHERE idpartida=70
+UPDATE partida SET rondasjugadas = 1  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 41, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 39, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 46, 0)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 32, 0)
+UPDATE partida SET vacuna1 = 50 WHERE idpartida=70
+UPDATE partida SET rondasjugadas = 2  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 24, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 29, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 13, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 23, 0)
+UPDATE partida SET vacuna1 = 75 WHERE idpartida=70
+UPDATE partida SET rondasjugadas = 3  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 25, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 20, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 22, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 46, 1)
+UPDATE partida SET vacuna1 = 100 WHERE idpartida=70
+UPDATE partida SET rondasjugadas = 4  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 17, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 7, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 42, 0)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 25, 0)
+UPDATE partida SET vacuna3 = 100 WHERE idpartida=70
+UPDATE partida SET rondasjugadas = 5  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 18, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 13, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 32, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 46, 0)
+UPDATE partida SET rondasjugadas = 6  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 9, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 45, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 27, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 36, 1)
+UPDATE partida SET vacuna2 = 100 WHERE idpartida=70
+UPDATE partida SET rondasjugadas = 7  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 19, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 43, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 45, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 35, 0)
+UPDATE partida SET rondasjugadas = 8  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 15, 2)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 10, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 17, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 49, 1)
+UPDATE partida SET rondasjugadas = 9  WHERE idpartida =70 and id_jugador = 2 
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 17, 0)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 22, 1)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 34, 0)
+INSERT INTO infecciones (idinfeccion, idpartida, idciudad, idenfermedad) VALUES (seq_infeccion.NEXTVAL, 70, 45, 2)

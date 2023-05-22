@@ -246,14 +246,22 @@ System.out.println("id jugador:"+id_jugador);
 			});
 
 			botonBorrar.addActionListener(this);
+			id_partida = Partidasid[i];
 
 			botonBorrar.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
 					Audio.sonidoBoton();
+					int idpartida = (int) ((JButton) e.getSource()).getClientProperty("id_partida");
+
+					borrarpartidas(idpartida);
 					// AQUI BORRARAS
 
 				}
+
 			});
+			botonBorrar.putClientProperty("id_partida", id_partida);
+
+
 
 			textArea.append(Partidas[i] + "\n \n");
 		textArea.add(botonCargar);
@@ -281,7 +289,7 @@ System.out.println("id jugador:"+id_jugador);
 	}
 	public int numeropartidas(int idusuario) {
 		// Si estáis desde casa, la url será oracle.ilerna.com y no 192.168.3.26
-	   	String DB_URL =  "jdbc:oracle:thin:@192.168.3.26:1521:xe";
+	   	String DB_URL =  "jdbc:oracle:thin:@oracle.ilerna.com:1521:xe";
 	       String USER =  "DAW_PNDC22_23_DAMO";
 	       String PASS = "DM123";
 	       Connection con = null;
@@ -326,10 +334,10 @@ System.out.println(idusuario);
 	}
 	
 	
-	public void cargarpartidas(String partidas[], int idusuario,int partidasid[]) {
+public void cargarpartidas(String partidas[], int idusuario,int partidasid[]) {
 		
 		// Si estáis desde casa, la url será oracle.ilerna.com y no 192.168.3.26
-	   	String DB_URL =  "jdbc:oracle:thin:@192.168.3.26:1521:xe";
+	   	String DB_URL =  "jdbc:oracle:thin:@oracle.ilerna.com:1521:xe";
 	       String USER =  "DAW_PNDC22_23_DAMO";
 	       String PASS = "DM123";
 	       Connection con = null;
@@ -375,4 +383,42 @@ System.out.println(idusuario);
 		   
 		
 	}
+public void borrarpartidas(int idpartida) {
+	
+	// Si estáis desde casa, la url será oracle.ilerna.com y no 192.168.3.26
+   	String DB_URL =  "jdbc:oracle:thin:@oracle.ilerna.com:1521:xe";
+       String USER =  "DAW_PNDC22_23_DAMO";
+       String PASS = "DM123";
+       Connection con = null;
+       Statement stmt = null;
+      
+   
+       try {
+           //STEP 1: Register JDBC driver
+           Class.forName("oracle.jdbc.driver.OracleDriver");
+
+           //STEP 2: Open a connection
+           System.out.println("conexion may fraindd...");
+			con = DriverManager.getConnection(DB_URL, USER, PASS);
+			 System.out.println("Insertando el nuevo jugador en nuestra bd");
+	            stmt = con.createStatement();
+	            String sql = "DELETE FROM partida WHERE idpartida="+idpartida+""; 
+	            Statement st = con.createStatement();
+   			st.execute(sql);
+   			ResultSet rs = st.executeQuery(sql); 	 	
+
+			if (rs.isBeforeFirst()) {
+			
+				
+			}
+   			System.out.println("Consultando ...");
+   } catch (ClassNotFoundException e) {
+		System.out.println("No se ha encontrado el driver " + e);
+	} catch (SQLException e) {
+		System.out.println("Error en las credenciales o en la URL " + e);
+	}
+	   
+	   
+	
+}
 }

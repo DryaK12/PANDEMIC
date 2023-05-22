@@ -8,13 +8,13 @@ public class main extends JFrame {
 	public static void main(String[] args) {
 		int i=0;
 		int y=0;
-		/*PanelNuevaPartida PanelNuevaPartida = new PanelNuevaPartida(i,y); 
+	/*	PanelNuevaPartida PanelNuevaPartida = new PanelNuevaPartida(i,y); 
 		PanelNuevaPartida.setVisible(true);
 		*/
 		IniciarSesion IniciarSesion = new IniciarSesion(); 
-		IniciarSesion.setVisible(true);
+	IniciarSesion.setVisible(true);
 
-		
+	
 	}
 
 	
